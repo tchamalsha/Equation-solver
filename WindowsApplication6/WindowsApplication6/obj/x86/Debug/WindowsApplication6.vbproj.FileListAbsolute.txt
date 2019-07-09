@@ -1,0 +1,12 @@
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.exe
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.pdb
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\bin\Debug\WindowsApplication6.xml
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Form1.resources
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.Resources.resources
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.vbproj.GenerateResource.Cache
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+c:\users\sadisha nimsara\documents\visual studio 2010\Projects\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
+E:\Visual Studio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.exe
+E:\Visual Studio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.xml
+E:\Visual Studio\WindowsApplication6\WindowsApplication6\obj\x86\Debug\WindowsApplication6.pdb
