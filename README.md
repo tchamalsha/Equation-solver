@@ -1,1 +1,1 @@
-# This is an equation solver. This can solve 2 equations with 2 variables.
+# This can be used to solve the equation with two unknown variables. 
